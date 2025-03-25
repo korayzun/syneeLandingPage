@@ -1,0 +1,18 @@
+This is going to be the revised version of the LP.
+
+We adjust the template according our design and SEO tactics to be listed better in search engines.
+
+__________________________________
+
+Design
+
+Font: Syne (if applicable)
+    - Title 32 px Regular/ Bold
+    - Body 18 px Regular/ Bold
+    - Small 14 px Regular
+Colors
+    - Background: #F5F8FE
+    - Primary: #8EA5BC
+    - Secondary: #7C90A4
+    - Tertiary: #B7CFE8
+    - Text: #8EA5BC or white(?)
