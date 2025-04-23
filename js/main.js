@@ -125,6 +125,8 @@
 	var ssSmoothScroll = function() {
 
 		$('.smoothscroll').on('click', function (e) {
+			if (!href || !href.startsWith('#')) return;
+			
 			var target = this.hash,
 			$target    = $(target);
 	 	
